@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": "2025-08-05T06:54:20.043539",
+    "user": "berry",
+    "bot": "Hello there"
+  },
+  {
+    "timestamp": "2025-08-05T06:55:43.708986",
+    "user": "what is the first letter of apple",
+    "bot": "Easy one! The first letter of \"apple\" is A!"
+  },
+  {
+    "timestamp": "2025-08-05T10:08:24.422656",
+    "user": "berry",
+    "bot": "Hello there"
+  },
+  {
+    "timestamp": "2025-08-05T10:10:39.336338",
+    "user": "hello berry",
+    "bot": "Hello there"
+  },
+  {
+    "timestamp": "2025-08-05T10:11:33.950382",
+    "user": "who is mark zuckerberg",
+    "bot": "Hey! Mark Zuckerberg is the co-founder and CEO of Facebook - one of the most popular social media platforms in the world! He's also the creator of Instagram and WhatsApp. He's a super smart guy who started coding at just 12 years old and went on to create Facebook from his college dorm room. Now he's one of the richest people on the planet"
+  },
+  {
+    "timestamp": "2025-08-11T16:34:49.183867",
+    "user": "berry",
+    "bot": "Hello there"
+  }
+]
